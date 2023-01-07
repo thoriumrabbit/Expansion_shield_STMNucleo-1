@@ -1,5 +1,7 @@
 # Expansion shield for STM Nucleo Development Board - HCMUT Logic Design Project
 
+Contribute by me, Cao Minh Quang and Trần Cao Duy Trường
+
 ## General Information:
 - Development Board: STM32 Nucleo-64 with STM32F103RBT6 MCU.
 - Major components: DHT-20 sensor and LCD 16x2.
